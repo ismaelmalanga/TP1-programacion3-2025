@@ -54,3 +54,25 @@ header {
 	align-items: center;
 	gap: 5px;
 }
+
+.main-contenedor {
+	display: flex;
+	padding: 20px;
+}
+
+.columna-izquierda {
+	flex: 1;
+	padding-right: 20px;
+}
+
+.columna-derecha {
+	flex: 2;
+}
+
+h3 {
+	font-size: 20px;
+	color: #2c3e50;
+	margin-bottom: 15px;
+	padding-bottom: 5px;
+	border-bottom: 2px solid #eaecef;
+}
