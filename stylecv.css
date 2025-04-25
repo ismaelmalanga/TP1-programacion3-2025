@@ -119,3 +119,23 @@ th, td {
 	text-align: left;
 }
 
+.educacion {
+	margin-bottom: 20px;
+}
+
+.educacion-item {
+	margin-bottom: 15px;
+}
+
+
+.educacion-item p {
+	color: #555;
+	font-size: 14px;
+}
+
+footer {
+	text-align: center;
+	padding: 15px;
+	background-color: #0e4222;
+	color: white;
+}
