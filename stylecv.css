@@ -97,3 +97,25 @@ h3 {
 .contacto a:hover {
 	text-decoration: underline;
 }
+
+.habilidades ul {
+	list-style: none;
+}
+
+.habilidades li {
+	margin-bottom: 8px;
+	padding: 5px;
+	background-color: #f8f9fa;
+	border-left: 3px solid #3498db;
+}
+
+table {
+	width: 100%;
+	margin: 10px 0;
+}
+
+th, td {
+	padding: 10px;
+	text-align: left;
+}
+
