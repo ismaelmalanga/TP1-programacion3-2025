@@ -139,3 +139,22 @@ footer {
 	background-color: #0e4222;
 	color: white;
 }
+
+@media (max-width: 768px) {
+.header-contenedor {
+	flex-direction: column;
+	text-align: center;
+}
+
+.main-contenedor {
+	flex-direction: column;
+}
+
+.columna-izquierda {
+	padding-right: 0;
+}
+
+.perfil-img {
+	margin: 0 auto 15px;
+}
+}
